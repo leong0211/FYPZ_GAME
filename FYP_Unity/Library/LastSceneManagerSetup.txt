@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/TRavljen/Unit Formation/Demo/Scene/Runtime Demo - Old Input.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

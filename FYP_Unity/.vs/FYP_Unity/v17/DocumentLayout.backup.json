@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wavls\\Desktop\\FYPZ_GAME\\FYP_Unity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A00650-7ADD-AB3B-CD72-60D8A23AF22B}|Assembly-CSharp.csproj|c:\\users\\wavls\\desktop\\fypz_game\\fyp_unity\\assets\\travljen\\unit formation\\scripts\\formationunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A00650-7ADD-AB3B-CD72-60D8A23AF22B}|Assembly-CSharp.csproj|solutionrelative:assets\\travljen\\unit formation\\scripts\\formationunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A00650-7ADD-AB3B-CD72-60D8A23AF22B}|Assembly-CSharp.csproj|c:\\users\\wavls\\desktop\\fypz_game\\fyp_unity\\assets\\gamescenefolder\\ea\\animation\\firstperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A00650-7ADD-AB3B-CD72-60D8A23AF22B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescenefolder\\ea\\animation\\firstperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormationUnit.cs",
+              "DocumentMoniker": "C:\\Users\\wavls\\Desktop\\FYPZ_GAME\\FYP_Unity\\Assets\\TRavljen\\Unit Formation\\Scripts\\FormationUnit.cs",
+              "RelativeDocumentMoniker": "Assets\\TRavljen\\Unit Formation\\Scripts\\FormationUnit.cs",
+              "ToolTip": "C:\\Users\\wavls\\Desktop\\FYPZ_GAME\\FYP_Unity\\Assets\\TRavljen\\Unit Formation\\Scripts\\FormationUnit.cs",
+              "RelativeToolTip": "Assets\\TRavljen\\Unit Formation\\Scripts\\FormationUnit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:40:08.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstPerson.cs",
+              "DocumentMoniker": "C:\\Users\\wavls\\Desktop\\FYPZ_GAME\\FYP_Unity\\Assets\\GameSceneFolder\\EA\\animation\\FirstPerson.cs",
+              "RelativeDocumentMoniker": "Assets\\GameSceneFolder\\EA\\animation\\FirstPerson.cs",
+              "ToolTip": "C:\\Users\\wavls\\Desktop\\FYPZ_GAME\\FYP_Unity\\Assets\\GameSceneFolder\\EA\\animation\\FirstPerson.cs",
+              "RelativeToolTip": "Assets\\GameSceneFolder\\EA\\animation\\FirstPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:35:45.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
